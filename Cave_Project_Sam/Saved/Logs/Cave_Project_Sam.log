@@ -1380,3 +1380,649 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.25-19.02.32:469][ 63]LogFab: Display: User logged in
 [2026.02.25-19.02.32:469][ 63]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2026.02.25-19.02.32:602][ 79]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-eTTFDYUfRU-Of2yJh_2aTQ-kHJBzrZPjUKvVUK_IZIKZA]
+[2026.02.25-19.03.04:721][381]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.25-19.03.04:738][382]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.02.25-19.03.05:024][384]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.25-19.03.08:692][815]Cmd: DELETE
+[2026.02.25-19.03.08:692][815]Cmd: ACTOR DELETE
+[2026.02.25-19.03.08:695][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-19.03.08:717][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.25-19.03.08:717][815]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.02.25-19.03.14:438][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-19.03.14:438][500]Can't find target element.
+[2026.02.25-19.04.22:930][703]LogDerivedDataCache: C:/Users/fuhrmas1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.25-19.08.22:169][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 355.233215
+[2026.02.25-19.08.22:294][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.08.22:294][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.350006, Update Interval: 358.463684
+[2026.02.25-19.12.31:206][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.02.25-19.12.31:210][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Cave_Auto1
+[2026.02.25-19.12.31:210][230]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/L_Cave_Auto1A9D6A77B41C9867998C4D098AEFB9727.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Autosaves/Game/Levels/L_Cave_Auto1.umap'
+[2026.02.25-19.12.31:211][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Cave' took 0.013
+[2026.02.25-19.12.31:211][230]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2026.02.25-19.14.22:831][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 715.897339
+[2026.02.25-19.14.22:980][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.14.22:981][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 716.039001, Update Interval: 309.133575
+[2026.02.25-19.18.01:603][872]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2026.02.25-19.18.01:608][872]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.02.25-19.18.01:608][872]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32644
+[2026.02.25-19.18.01:908][908]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.02.25-19.18.01:910][908]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0ee5ae7f-8fc8-4ce3-9377-993480ae9272}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=296.15
+[2026.02.25-19.18.01:910][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.25-19.18.01:912][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.25-19.19.38:639][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1031.701294
+[2026.02.25-19.19.39:640][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.19.39:640][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1032.367920, Update Interval: 343.917358
+[2026.02.25-19.25.35:711][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1388.773560
+[2026.02.25-19.25.36:711][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.25.36:711][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1389.440674, Update Interval: 341.139557
+[2026.02.25-19.31.41:443][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1754.513062
+[2026.02.25-19.31.42:443][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.31.42:443][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1755.179688, Update Interval: 313.647278
+[2026.02.25-19.37.32:503][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2105.577148
+[2026.02.25-19.37.33:504][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.37.33:504][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2106.244385, Update Interval: 343.170258
+[2026.02.25-19.40.05:705][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.25-19.40.05:705][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.25-19.40.05:706][394]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/L_Cave.L_Cave:PersistentLevel.StaticMeshActor_0
+[2026.02.25-19.40.05:706][394]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/L_Cave.L_Cave:PersistentLevel.StaticMeshActor_0
+[2026.02.25-19.40.15:687][553]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-19.41.40:964][155]Cmd: DUPLICATE
+[2026.02.25-19.41.40:965][155]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.42.45:067][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.25-19.42.45:072][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Cave_Auto2
+[2026.02.25-19.42.45:072][896]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/L_Cave_Auto23EBE9AB940880D75C8DAA99E6CDACE9F.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Autosaves/Game/Levels/L_Cave_Auto2.umap'
+[2026.02.25-19.42.45:073][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Cave' took 0.013
+[2026.02.25-19.42.45:073][896]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2026.02.25-19.43.13:690][103]Cmd: DUPLICATE
+[2026.02.25-19.43.13:690][103]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.44.02:086][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2495.154053
+[2026.02.25-19.44.02:244][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.44.02:244][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2495.303955, Update Interval: 334.963226
+[2026.02.25-19.44.13:356][769]Cmd: DUPLICATE
+[2026.02.25-19.44.13:356][769]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.45.07:526][809]Cmd: DUPLICATE
+[2026.02.25-19.45.07:526][809]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.45.29:582][273]Cmd: DUPLICATE
+[2026.02.25-19.45.29:582][273]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.49.30:554][469]Cmd: DUPLICATE
+[2026.02.25-19.49.30:554][469]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.49.54:786][258]Cmd: TRANSACTION UNDO
+[2026.02.25-19.49.54:786][258]LogEditorTransaction: Undo Scale Elements
+[2026.02.25-19.49.59:561][747]Cmd: TRANSACTION UNDO
+[2026.02.25-19.49.59:561][747]LogEditorTransaction: Undo Scale Elements
+[2026.02.25-19.50.07:602][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2860.658691
+[2026.02.25-19.50.07:760][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.50.07:760][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2860.809082, Update Interval: 318.937347
+[2026.02.25-19.51.16:452][212]Cmd: SELECT NONE
+[2026.02.25-19.52.24:366][885]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-19.52.31:543][728]Cmd: DUPLICATE
+[2026.02.25-19.52.31:543][728]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.53.34:689][924]Cmd: DUPLICATE
+[2026.02.25-19.53.34:689][924]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.55.19:212][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.25-19.55.19:219][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Cave_Auto3
+[2026.02.25-19.55.19:219][843]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/L_Cave_Auto37A8877AB499B336857C1CA8394E621C4.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Autosaves/Game/Levels/L_Cave_Auto3.umap'
+[2026.02.25-19.55.19:220][843]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Cave' took 0.014
+[2026.02.25-19.55.19:220][843]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2026.02.25-19.55.41:757][328]Cmd: DUPLICATE
+[2026.02.25-19.55.41:757][328]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.56.14:238][ 53]Cmd: DUPLICATE
+[2026.02.25-19.56.14:238][ 53]Cmd: ACTOR DUPLICATE
+[2026.02.25-19.56.19:672][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3232.729492
+[2026.02.25-19.56.19:825][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-19.56.19:825][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3232.861084, Update Interval: 302.763153
+[2026.02.25-19.57.56:343][499]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.25-19.58.44:401][958]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-19.59.50:793][274]Cmd: DUPLICATE
+[2026.02.25-19.59.50:794][274]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.00.32:900][ 11]Cmd: DUPLICATE
+[2026.02.25-20.00.32:900][ 11]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.02.09:473][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3582.561523
+[2026.02.25-20.02.09:589][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-20.02.09:589][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3582.670166, Update Interval: 356.462280
+[2026.02.25-20.03.11:053][202]Cmd: DUPLICATE
+[2026.02.25-20.03.11:053][202]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.04.22:930][315]LogDerivedDataCache: C:/Users/fuhrmas1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.25-20.04.56:770][ 86]Cmd: DUPLICATE
+[2026.02.25-20.04.56:770][ 86]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.06.25:002][265]Cmd: TRANSACTION UNDO
+[2026.02.25-20.06.25:002][265]LogEditorTransaction: Undo Move Elements
+[2026.02.25-20.08.01:970][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.25-20.08.01:978][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Cave_Auto4
+[2026.02.25-20.08.01:978][482]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/L_Cave_Auto40C4EA4114689B955B1765DAA42E9F3BE.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Autosaves/Game/Levels/L_Cave_Auto4.umap'
+[2026.02.25-20.08.01:979][482]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Cave' took 0.018
+[2026.02.25-20.08.01:979][482]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2026.02.25-20.08.43:083][193]Cmd: DUPLICATE
+[2026.02.25-20.08.43:083][193]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.08.55:947][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3989.038086
+[2026.02.25-20.08.56:096][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-20.08.56:096][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3989.179199, Update Interval: 354.230164
+[2026.02.25-20.09.51:805][929]Cmd: DUPLICATE
+[2026.02.25-20.09.51:805][929]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.09.59:600][835]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-20.10.11:763][178]Cmd: TRANSACTION UNDO
+[2026.02.25-20.10.11:763][178]LogEditorTransaction: Undo Move Elements
+[2026.02.25-20.10.12:091][184]Cmd: TRANSACTION UNDO
+[2026.02.25-20.10.12:091][184]LogEditorTransaction: Undo Move Elements
+[2026.02.25-20.10.12:600][221]Cmd: TRANSACTION UNDO
+[2026.02.25-20.10.12:600][221]LogEditorTransaction: Undo Rotate Elements
+[2026.02.25-20.10.23:711][460]Cmd: TRANSACTION UNDO
+[2026.02.25-20.10.23:711][460]LogEditorTransaction: Undo Scale Elements
+[2026.02.25-20.11.07:518][279]Cmd: DUPLICATE
+[2026.02.25-20.11.07:518][279]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.12.17:055][318]Cmd: TRANSACTION UNDO
+[2026.02.25-20.12.17:055][318]LogEditorTransaction: Undo Clicking on Actors
+[2026.02.25-20.12.21:892][838]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.02.25-20.12.22:302][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.02.25-20.12.23:601][ 40]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.02.25-20.12.24:067][ 77]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.02.25-20.12.28:664][562]Cmd: TRANSACTION UNDO
+[2026.02.25-20.12.28:664][562]LogEditorTransaction: Undo Clicking Background
+[2026.02.25-20.12.28:950][566]Cmd: TRANSACTION UNDO
+[2026.02.25-20.12.28:950][566]LogEditorTransaction: Undo Move Elements
+[2026.02.25-20.12.29:309][580]Cmd: TRANSACTION UNDO
+[2026.02.25-20.12.29:309][580]LogEditorTransaction: Undo Move Elements
+[2026.02.25-20.12.29:752][632]Cmd: TRANSACTION UNDO
+[2026.02.25-20.12.29:752][632]LogEditorTransaction: Undo Rotate Elements
+[2026.02.25-20.12.30:369][699]Cmd: TRANSACTION UNDO
+[2026.02.25-20.12.30:369][699]LogEditorTransaction: Undo Clicking on Actors
+[2026.02.25-20.14.29:409][153]Cmd: TRANSACTION UNDO
+[2026.02.25-20.14.29:409][153]LogEditorTransaction: Undo Rotate Elements
+[2026.02.25-20.14.58:439][395]Cmd: DUPLICATE
+[2026.02.25-20.14.58:439][395]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.15.27:371][596]Cmd: DUPLICATE
+[2026.02.25-20.15.27:371][596]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.15.31:204][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4384.203125
+[2026.02.25-20.15.31:337][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-20.15.31:337][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4384.327637, Update Interval: 355.156708
+[2026.02.25-20.15.33:008][259]Cmd: TRANSACTION UNDO
+[2026.02.25-20.15.33:008][259]LogEditorTransaction: Undo Move Elements
+[2026.02.25-20.15.36:287][580]Cmd: TRANSACTION UNDO
+[2026.02.25-20.15.36:287][580]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.25-20.15.37:265][691]Cmd: TRANSACTION UNDO
+[2026.02.25-20.15.37:265][691]LogEditorTransaction: Undo Duplicate Elements
+[2026.02.25-20.15.40:840][ 56]Cmd: DUPLICATE
+[2026.02.25-20.15.40:840][ 56]Cmd: ACTOR DUPLICATE
+[2026.02.25-20.16.22:004][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-20.17.53:854][781]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.02.25-20.17.58:341][281]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.02.25-20.18.17:612][385]LogStreaming: Display: FlushAsyncLoading(345): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-20.18.17:825][385]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.02.25-20.18.26:934][459]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-20.18.29:687][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2.Merge_27E540E2
+[2026.02.25-20.18.29:687][702]LogStaticMesh: Display: Building static mesh Merge_27E540E2 (Required Memory Estimate: 5.514278 MB)...
+[2026.02.25-20.18.29:688][702]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2.Merge_27E540E2 as actor: StaticMeshActor /Game/Levels/L_Cave.L_Cave:PersistentLevel.StaticMeshActor_65
+[2026.02.25-20.18.29:700][702]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2.Merge_27E540E2
+[2026.02.25-20.18.29:704][702]LogStaticMesh: Warning: Merge_27E540E2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.18.29:704][702]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2) ...
+[2026.02.25-20.18.29:704][702]LogStaticMesh: Warning: Merge_27E540E2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.18.30:254][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:284][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.25-20.18.30:286][702]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.02.25-20.18.30:292][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:300][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:300][702]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.25-20.18.30:306][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:313][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:313][702]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2026.02.25-20.18.30:318][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:328][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:329][702]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.25-20.18.30:335][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:344][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-20.18.30:345][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:351][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:361][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:361][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:367][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:377][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:377][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:383][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:391][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.25-20.18.30:391][702]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.25-20.18.30:398][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:407][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:409][702]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.18.30:414][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:425][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:425][702]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.18.30:431][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:441][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:441][702]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.18.30:448][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:458][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:458][702]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.18.30:464][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:474][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:475][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:480][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:488][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:488][702]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.25-20.18.30:494][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:504][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:505][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:510][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:520][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:520][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:527][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:534][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.25-20.18.30:535][702]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.25-20.18.30:541][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:550][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-20.18.30:551][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:556][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:565][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:566][702]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.25-20.18.30:572][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:581][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-20.18.30:582][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:588][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:598][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:599][702]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.18.30:604][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:614][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:615][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:620][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:630][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.02.25-20.18.30:630][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:637][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:646][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:647][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:652][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:660][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.25-20.18.30:661][702]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.25-20.18.30:667][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:677][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:677][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:683][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:693][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-20.18.30:693][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:699][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:706][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.18.30:706][702]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.25-20.18.30:713][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:722][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.25-20.18.30:722][702]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.18.30:726][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:735][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.25-20.18.30:736][702]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2026.02.25-20.18.30:739][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:747][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:747][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:751][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:758][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:758][702]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.25-20.18.30:762][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:770][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:771][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:774][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:783][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.25-20.18.30:783][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:787][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:794][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:794][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:798][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:806][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:806][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:809][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:817][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:818][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:821][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:829][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:829][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:833][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:841][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:841][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:845][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:854][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.25-20.18.30:854][702]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2026.02.25-20.18.30:858][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:865][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:866][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:869][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:877][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:877][702]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.25-20.18.30:881][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:888][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:889][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:893][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:900][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:901][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:904][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:912][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:912][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:916][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:923][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:923][702]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.25-20.18.30:927][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:935][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:935][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:939][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:946][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:947][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:950][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:959][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:959][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.30:962][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:970][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.30:970][702]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.25-20.18.30:974][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.30:989][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.30:989][702]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.25-20.18.30:993][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.31:001][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.31:001][702]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.25-20.18.31:005][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.31:013][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.18.31:013][702]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.25-20.18.31:016][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.31:024][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.18.31:025][702]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.18.50:712][ 27]LogStreaming: Display: FlushAsyncLoading(349): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-20.18.53:767][384]LogUObjectGlobals: Warning: Failed to find object 'Material None.MATERIAL'
+[2026.02.25-20.18.53:854][384]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA.Merge_Solid_0FE5D4BA
+[2026.02.25-20.18.53:854][384]LogStaticMesh: Display: Building static mesh Merge_Solid_0FE5D4BA (Required Memory Estimate: 25.397163 MB)...
+[2026.02.25-20.18.53:855][384]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA.Merge_Solid_0FE5D4BA as actor: StaticMeshActor /Game/Levels/L_Cave.L_Cave:PersistentLevel.StaticMeshActor_66
+[2026.02.25-20.18.53:871][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA) ...
+[2026.02.25-20.18.53:975][384]LogStaticMesh: Built static mesh [0.12s] /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA.Merge_Solid_0FE5D4BA
+[2026.02.25-20.18.54:010][384]LogStaticMesh: Warning: Merge_Solid_0FE5D4BA has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.18.54:010][384]LogStaticMesh: Warning: Merge_Solid_0FE5D4BA has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.18.54:510][384]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA) ...
+[2026.02.25-20.18.54:548][384]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.18.54:564][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.25-20.18.54:565][384]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.25-20.19.00:866][114]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-20.19.09:499][ 69]LogStaticMesh: Display: Building static mesh Merge_Solid_0FE5D4BA (Required Memory Estimate: 25.5522 MB)...
+[2026.02.25-20.19.09:515][ 69]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA) ...
+[2026.02.25-20.19.09:585][ 69]LogStaticMesh: Built static mesh [0.09s] /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA.Merge_Solid_0FE5D4BA
+[2026.02.25-20.19.57:257][669]Cmd: TRANSACTION UNDO
+[2026.02.25-20.19.57:257][669]LogEditorTransaction: Undo Auto UVs
+[2026.02.25-20.19.57:305][669]LogStaticMesh: Warning: Merge_Solid_0FE5D4BA has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.19.57:306][669]LogStaticMesh: Warning: Merge_Solid_0FE5D4BA has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.19.57:713][677]Cmd: TRANSACTION UNDO
+[2026.02.25-20.19.57:713][677]LogEditorTransaction: Undo Voxel Shell
+[2026.02.25-20.19.58:064][701]Cmd: TRANSACTION UNDO
+[2026.02.25-20.19.58:064][701]LogEditorTransaction: Undo Rename Actor
+[2026.02.25-20.19.59:023][814]Cmd: TRANSACTION UNDO
+[2026.02.25-20.19.59:023][814]LogEditorTransaction: Undo Merge Meshes
+[2026.02.25-20.20.08:882][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED.Merge_740C9CED
+[2026.02.25-20.20.08:882][903]LogStaticMesh: Display: Building static mesh Merge_740C9CED (Required Memory Estimate: 5.514278 MB)...
+[2026.02.25-20.20.08:883][903]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED.Merge_740C9CED as actor: StaticMeshActor /Game/Levels/L_Cave.L_Cave:PersistentLevel.StaticMeshActor_67
+[2026.02.25-20.20.08:894][903]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED.Merge_740C9CED
+[2026.02.25-20.20.08:897][903]LogStaticMesh: Warning: Merge_740C9CED has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.20.08:897][903]LogStaticMesh: Warning: Merge_740C9CED has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.20.09:393][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:407][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.25-20.20.09:410][903]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.25-20.20.09:416][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:426][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.02.25-20.20.09:427][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:432][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:440][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.25-20.20.09:440][903]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.25-20.20.09:447][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:457][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:458][903]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.25-20.20.09:464][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:474][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:475][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:481][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:488][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.02.25-20.20.09:489][903]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.25-20.20.09:495][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:502][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:503][903]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.25-20.20.09:509][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:517][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:518][903]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.25-20.20.09:523][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:533][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:534][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:540][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:550][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:550][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:557][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:567][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:568][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:573][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:584][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:584][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:590][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:601][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:602][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:608][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:618][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:618][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:624][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:634][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:634][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:640][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:651][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.02.25-20.20.09:651][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:658][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:668][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:668][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:674][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:684][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-20.20.09:685][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:691][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:700][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-20.20.09:701][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:708][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:718][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:719][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:724][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:735][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.25-20.20.09:736][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:741][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:751][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.25-20.20.09:751][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:757][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:767][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.25-20.20.09:768][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:774][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:784][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.02.25-20.20.09:784][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:790][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:800][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.02.25-20.20.09:800][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:807][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:816][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.02.25-20.20.09:817][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:822][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:833][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-20.20.09:834][903]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.25-20.20.09:840][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:850][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.25-20.20.09:850][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:855][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:865][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-20.20.09:865][903]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.25-20.20.09:870][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:879][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:879][903]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2026.02.25-20.20.09:882][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:892][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.25-20.20.09:893][903]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.25-20.20.09:896][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:904][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:905][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.09:908][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:916][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:916][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.09:920][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:928][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:929][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.09:932][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:940][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:940][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.09:944][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:952][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:953][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.09:956][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:963][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:964][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.09:968][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:976][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:976][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.09:980][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.09:989][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.09:989][903]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2026.02.25-20.20.09:993][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:001][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:001][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:005][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:013][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:014][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:017][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:025][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:026][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:029][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:037][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:038][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:041][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:048][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:049][903]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.25-20.20.10:053][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:060][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.25-20.20.10:061][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:065][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:072][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:073][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:076][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:085][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:085][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:089][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:097][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:097][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:101][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:108][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:109][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:112][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:120][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.20.10:121][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:124][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:132][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:132][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:136][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:143][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.25-20.20.10:144][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:147][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:156][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.20.10:156][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.20.10:160][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.20.10:167][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.25-20.20.10:168][903]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.25-20.21.52:273][989]LogStaticMesh: Display: Building static mesh Merge_740C9CED (Required Memory Estimate: 5.514278 MB)...
+[2026.02.25-20.21.52:285][989]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED.Merge_740C9CED
+[2026.02.25-20.22.02:080][129]LogUObjectGlobals: Warning: Failed to find object 'Material None.MATERIAL'
+[2026.02.25-20.22.02:132][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97
+[2026.02.25-20.22.02:132][129]LogStaticMesh: Display: Building static mesh Merge_Solid_DFEE9A97 (Required Memory Estimate: 17.581778 MB)...
+[2026.02.25-20.22.02:133][129]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97 as actor: StaticMeshActor /Game/Levels/L_Cave.L_Cave:PersistentLevel.StaticMeshActor_68
+[2026.02.25-20.22.02:150][129]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97) ...
+[2026.02.25-20.22.02:193][129]LogStaticMesh: Built static mesh [0.06s] /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97
+[2026.02.25-20.22.02:210][129]LogStaticMesh: Warning: Merge_Solid_DFEE9A97 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.22.02:211][129]LogStaticMesh: Warning: Merge_Solid_DFEE9A97 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.25-20.22.02:738][129]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97) ...
+[2026.02.25-20.22.02:766][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-20.22.02:783][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.25-20.22.02:785][129]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.25-20.22.10:437][996]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4783.374512
+[2026.02.25-20.22.10:630][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-20.22.10:630][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4783.558594, Update Interval: 347.508179
+[2026.02.25-20.22.11:832][160]LogStaticMesh: Display: Building static mesh Merge_Solid_DFEE9A97 (Required Memory Estimate: 17.700232 MB)...
+[2026.02.25-20.22.11:847][160]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97) ...
+[2026.02.25-20.22.11:895][160]LogStaticMesh: Built static mesh [0.06s] /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97
+[2026.02.25-20.22.29:036][148]LogStaticMesh: Display: Building static mesh Merge_Solid_DFEE9A97 (Required Memory Estimate: 44.472994 MB)...
+[2026.02.25-20.22.29:052][148]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97) ...
+[2026.02.25-20.22.29:733][148]LogStaticMesh: Built static mesh [0.70s] /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97
+[2026.02.25-20.23.28:069][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.25-20.23.28:075][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-20.23.28:147][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.25-20.23.28:150][  4]LogSavePackage: Moving output files for package: /Game/Levels/L_Cave
+[2026.02.25-20.23.28:151][  4]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/L_CaveA51CA3E74BDCA4F958FF16892E6F7099.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Content/Levels/L_Cave.umap'
+[2026.02.25-20.23.28:158][  4]LogFileHelpers: Saving map 'L_Cave' took 0.028
+[2026.02.25-20.23.28:158][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2] ([1] browsable assets)...
+[2026.02.25-20.23.28:196][  4]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2.Merge_27E540E2]
+[2026.02.25-20.23.28:196][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2]
+[2026.02.25-20.23.28:199][  4]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2
+[2026.02.25-20.23.28:199][  4]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Merge_27E540E2FAA3BA45444EDCD26AD37F97CC038264.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Content/Levels/_GENERATED/fuhrmas1/Merge_27E540E2.uasset'
+[2026.02.25-20.23.28:200][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA] ([1] browsable assets)...
+[2026.02.25-20.23.28:205][  4]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA.Merge_Solid_0FE5D4BA]
+[2026.02.25-20.23.28:205][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA]
+[2026.02.25-20.23.28:212][  4]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA
+[2026.02.25-20.23.28:212][  4]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Merge_Solid_0FE5D4BA06CA52AC4EB31AC8E0F616AA46E516A3.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Content/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA.uasset'
+[2026.02.25-20.23.28:213][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED] ([1] browsable assets)...
+[2026.02.25-20.23.28:219][  4]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED.Merge_740C9CED]
+[2026.02.25-20.23.28:219][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED]
+[2026.02.25-20.23.28:224][  4]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED
+[2026.02.25-20.23.28:224][  4]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Merge_740C9CED7F2269EE4910FCD022AB4C8021D73D02.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Content/Levels/_GENERATED/fuhrmas1/Merge_740C9CED.uasset'
+[2026.02.25-20.23.28:225][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97] ([1] browsable assets)...
+[2026.02.25-20.23.28:231][  4]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97]
+[2026.02.25-20.23.28:231][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97]
+[2026.02.25-20.23.28:240][  4]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97
+[2026.02.25-20.23.28:240][  4]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Merge_Solid_DFEE9A972E15B60D4F61B8565562A399AF954E7D.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Content/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.uasset'
+[2026.02.25-20.23.28:248][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.927 ms
+[2026.02.25-20.23.28:296][  4]LogContentValidation: Display: Starting to validate 5 assets
+[2026.02.25-20.23.28:296][  4]LogContentValidation: Enabled validators:
+[2026.02.25-20.23.28:296][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-20.23.28:296][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-20.23.28:296][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-20.23.28:296][  4]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-20.23.28:296][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-20.23.28:296][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-20.23.28:296][  4]AssetCheck: /Game/Levels/L_Cave Validating asset
+[2026.02.25-20.23.28:296][  4]AssetCheck: /Game/Levels/_GENERATED/fuhrmas1/Merge_27E540E2 Validating asset
+[2026.02.25-20.23.28:296][  4]AssetCheck: /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_0FE5D4BA Validating asset
+[2026.02.25-20.23.28:296][  4]AssetCheck: /Game/Levels/_GENERATED/fuhrmas1/Merge_740C9CED Validating asset
+[2026.02.25-20.23.28:297][  4]AssetCheck: /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97 Validating asset
+[2026.02.25-20.24.28:321][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-20.25.03:224][ 27]LogStreaming: Display: FlushAsyncLoading(352): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-20.25.51:675][929]LogStaticMesh: Display: Building static mesh Merge_Solid_DFEE9A97 (Required Memory Estimate: 1109.272665 MB)...
+[2026.02.25-20.25.51:690][929]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97) ...
+[2026.02.25-20.25.52:871][929]LogStaticMesh: Built static mesh [1.20s] /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97
+[2026.02.25-20.25.53:663][929]LogAutomationController: Ignoring very large delta of 3.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.25-20.26.21:671][125]Cmd: TRANSACTION UNDO
+[2026.02.25-20.26.21:671][125]LogEditorTransaction: Undo Move Elements
+[2026.02.25-20.26.24:035][352]Cmd: TRANSACTION UNDO
+[2026.02.25-20.26.24:035][352]LogEditorTransaction: Undo Scale Elements
+[2026.02.25-20.26.41:667][420]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.25-20.26.44:643][755]Cmd: TRANSACTION UNDO
+[2026.02.25-20.26.44:643][755]LogEditorTransaction: Undo Clicking on Actors
+[2026.02.25-20.26.45:073][762]Cmd: TRANSACTION UNDO
+[2026.02.25-20.26.45:073][762]LogEditorTransaction: Undo Scale Elements
+[2026.02.25-20.28.45:687][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5178.626953
+[2026.02.25-20.28.46:687][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-20.28.46:687][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5179.293945, Update Interval: 329.116486
+[2026.02.25-20.33.28:817][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.25-20.33.28:823][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Cave_Auto5
+[2026.02.25-20.33.28:823][250]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/L_Cave_Auto58E0B7144456AA467C1AC30BE21C9EFA0.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Autosaves/Game/Levels/L_Cave_Auto5.umap'
+[2026.02.25-20.33.28:823][250]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Cave' took 0.030
+[2026.02.25-20.33.28:824][250]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2026.02.25-20.33.28:824][250]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97] ([1] browsable assets)...
+[2026.02.25-20.33.28:974][250]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.Merge_Solid_DFEE9A97]
+[2026.02.25-20.33.28:974][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97]
+[2026.02.25-20.33.29:062][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97_Auto5
+[2026.02.25-20.33.29:062][250]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Merge_Solid_DFEE9A97_Auto522B9395B4F5C269AD941F098027BB4C5.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Autosaves/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97_Auto5.uasset'
+[2026.02.25-20.33.29:063][250]LogFileHelpers: Auto-saving content packages took 0.240
+[2026.02.25-20.33.32:719][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.25-20.33.32:721][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-20.33.32:788][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.25-20.33.32:790][613]LogSavePackage: Moving output files for package: /Game/Levels/L_Cave
+[2026.02.25-20.33.32:791][613]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/L_CaveF9EBD654470BC735583F2588A8E2955F.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Content/Levels/L_Cave.umap'
+[2026.02.25-20.33.32:796][613]LogFileHelpers: Saving map 'L_Cave' took 0.026
+[2026.02.25-20.33.32:796][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97] ([1] browsable assets)...
+[2026.02.25-20.33.32:796][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97]
+[2026.02.25-20.33.32:871][613]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97
+[2026.02.25-20.33.32:872][613]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Saved/Merge_Solid_DFEE9A975A3F61CE4D5CB455F7702D8C892C2539.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_Cave/Cave_Project_Sam/Content/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97.uasset'
+[2026.02.25-20.33.32:879][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.052 ms (total: 329.979 ms)
+[2026.02.25-20.33.32:920][613]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.25-20.33.32:920][613]LogContentValidation: Enabled validators:
+[2026.02.25-20.33.32:920][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-20.33.32:920][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-20.33.32:920][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-20.33.32:920][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-20.33.32:920][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-20.33.32:920][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-20.33.32:920][613]AssetCheck: /Game/Levels/L_Cave Validating asset
+[2026.02.25-20.33.32:920][613]AssetCheck: /Game/Levels/_GENERATED/fuhrmas1/Merge_Solid_DFEE9A97 Validating asset
